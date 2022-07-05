@@ -1,0 +1,8 @@
+version: 'version_de_tu_poyecto'
+
+services:
+  nombre_de_tu_servicio:
+    container_name: 'nombre_unico_para_tu_contenedor'
+    build: .
+    environment:
+      - nombre_de_tus_variables_de_entorno=${nombre_de_tus_variables_de_entorno}
