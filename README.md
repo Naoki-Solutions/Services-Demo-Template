@@ -32,4 +32,4 @@ En esta etapa se debera configurar un par de scripts con el objetivo construir u
 
 ### Despliegue de la aplicacion
 
-**ATENCION:** Debido a que ahun estamos en desarrollo, esta seccion se mantendra en blanco hasta que se termine con el desarrollo de la aplicacion Naokipanel.
+**ATENCION:** Debido a que aun estamos en desarrollo, esta seccion se mantendra en blanco hasta que se termine con el desarrollo de la aplicacion Naokipanel.
